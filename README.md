@@ -26,10 +26,10 @@ Jelen projektemben egy tetováló szalon időpontfoglaló Android web-alkamazás
 - Szubjektív pontozás a projekt egészére vonatkozólag: ez 5-ről indul és le lehet vonni, ha igénytelen, összecsapott, látszik hogy nem foglalkozott vele, kísértetiesen hasonlít a videóban létrehozotthoz stb.
 
 ```plaintext
-  : ¨·.·¨ :
-   ` ·. 🦋
-                  ╱|、                   
-                (˚ˎ 。7  
-                 |、˜〵          
-                じしˍ,)ノ
+                                   : ¨·.·¨ :                            
+                                    ` ·. 🦋                               
+                                                   ╱|、                                     
+                                                  (˚ˎ 。7                 
+                                                   |、˜〵                  
+                                                   じしˍ,)ノ                
 ```       
