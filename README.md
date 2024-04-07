@@ -27,7 +27,7 @@ Jelen projektemben egy tetováló szalon időpontfoglaló Android web-alkamazás
 
 ```plaintext
                                    : ¨·.·¨ :                            
-                                    ` ·. 🦋                               
+                                    ` ·. 🦋                           Legyen szép napod!     
                                                    ╱|、                                     
                                                   (˚ˎ 。7                 
                                                    |、˜〵                  
