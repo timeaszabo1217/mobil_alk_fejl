@@ -1,4 +1,4 @@
-# Mobil alkalmazás fejlesztés
+# Mobil alkalmazásfejlesztés
 
 Jelen projektemben egy tetováló szalon időpontfoglaló Android web-alkamazás elkészítése a feladatom.
 
