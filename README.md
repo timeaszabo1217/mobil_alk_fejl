@@ -1,11 +1,10 @@
 # Mobil alkalmazás fejlesztés
 
-\```
-∧,,,∧
-(• ⩊ •)
-|￣U U￣￣￣￣￣￣￣￣￣|
-| Projektmunka |
-￣￣￣￣￣￣￣￣￣￣￣￣
+   ∧,,,∧
+  (• ⩊ •)
+  |￣U U￣￣￣￣￣￣￣￣￣|
+  | Projektmunka |
+  ￣￣￣￣￣￣￣￣￣￣￣￣
 
 Jelen projektemben egy tetováló szalon időpontfoglaló Android web-alkamazás elkészítése a feladatom.
 
@@ -32,8 +31,8 @@ Jelen projektemben egy tetováló szalon időpontfoglaló Android web-alkamazás
 - Legalább 2 komplex Firestore lekérdezés megvalósítása, amely indexet igényel (ide tartoznak: where feltétel, rendezés, léptetés, limitálás)  
 - Szubjektív pontozás a projekt egészére vonatkozólag: ez 5-ről indul és le lehet vonni, ha igénytelen, összecsapott, látszik hogy nem foglalkozott vele, kísértetiesen hasonlít a videóban létrehozotthoz stb.
 
-: ¨·.·¨ :
- ` ·. 🦋
+  : ¨·.·¨ :
+   ` ·. 🦋
                   ╱|、                   
                 (˚ˎ 。7  
                  |、˜〵          
