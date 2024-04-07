@@ -1,10 +1,12 @@
 # Mobil alkalmazás fejlesztés
 
--    ∧,,,∧
--   (• ⩊ •)
--   |￣U U￣￣￣￣￣￣￣￣￣|
--   | Projektmunka        |
--   ￣￣￣￣￣￣￣￣￣￣￣￣
+```plaintext
+∧,,,∧
+(• ⩊ •)
+|￣U U￣￣￣￣￣￣￣￣￣|
+| Projektmunka |
+￣￣￣￣￣￣￣￣￣￣￣￣
+```￣￣￣￣￣￣￣￣￣￣￣￣
 
 Jelen projektemben egy tetováló szalon időpontfoglaló Android web-alkamazás elkészítése a feladatom.
 
