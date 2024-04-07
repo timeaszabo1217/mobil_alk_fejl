@@ -1,7 +1,7 @@
-# mobil_alk_fejl
+# Mobil alkalmazás fejlesztés
 
-  ∧,,,∧
- (• ⩊ •)
+∧,,,∧
+(• ⩊ •)
 |￣U U￣￣￣￣￣￣￣￣￣|
 |     Projektmunka    |   
 ￣￣￣￣￣￣￣￣￣￣￣￣
